@@ -1,4 +1,7 @@
 # SSEncrypt.module
-SSEncrypt.module for Surge
+SSEncrypt.module for Surge that Copyright by Surge!
 
-作者为 Surge 作者
+#🏳 Shadowrocket.conf
+Proxy whitelist rule！
+#🏴 Shadowrocket.conf
+Proxy blacklist rule!
