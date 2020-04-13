@@ -1,0 +1,11 @@
+#!name=TikTok
+#!desc=该模块适用于解锁国际版TikTok
+#!system=ios
+
+[URL Rewrite]
+(.video_id=\w{32})(.watermark=)(.*) $1 302
+(?<=(carrier|sys)_region=)CN JP 307
+
+[MITM]
+skip-server-cert-verify = true
+hostname = *.tiktokcdn.com, api*.tiktokv.com, api*.musical.ly, api*.amemv.com, aweme*.snasdk.com
