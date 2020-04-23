@@ -1,0 +1,6 @@
+#!name=Google
+#!desc=该模块适用于解锁公司网络环境下Google部分域名识别为CN问题
+
+[Rule]
+# Google
+DOMAIN-SUFFIX,google.com,👑 Global
