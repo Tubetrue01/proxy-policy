@@ -14,6 +14,4 @@
 TikTok-AD-Watermark=type=http-request,pattern=^https:\/\/.*\.(amemv|musical)\.(com|ly)\/aweme\/v.*\/(feed|post),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Tubetrue01/ProxyPolicy/master/Surge3/scripts/tiktok/Aweme.js
 
 [MITM]
-
-skip-server-cert-verify = true
-hostname = *.tiktokcdn.com, api*.tiktokv.com, api*.musical.ly, api*.amemv.com, aweme*.snasdk.com
+hostname = %APPEND% *.snssdk.com, *.amemv.com, *.musical.ly
