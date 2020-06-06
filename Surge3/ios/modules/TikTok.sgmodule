@@ -3,15 +3,15 @@
 #!system=ios
 
 [URL Rewrite]
-(?<=_region=)CN(?=&) US 307
+(?<=_region=)CN(?=&) JP 307
 (?<=&app_version=)16..(?=.?.?&) 1 307
 (?<=\?version_code=)16..(?=.?.?&) 1 307
 
 # Remove the watermark
-^https://aweme-eagle(.*)\.snssdk\.com/aweme/v2/ https://aweme-eagle$1.snssdk.com/aweme/v1/ 302
+(.*video_id=\w{32})(.*watermark=)(.*) $1 302
 
 [Script]
 TikTok-AD-Watermark=type=http-request,pattern=^https:\/\/.*\.(amemv|musical)\.(com|ly)\/aweme\/v.*\/(feed|post),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Tubetrue01/ProxyPolicy/master/Surge3/scripts/tiktok/Aweme.js
 
 [MITM]
-hostname=%APPEND% *.snssdk.com, *.amemv.com, *.musical.ly
+hostname = %APPEND% *.snssdk.com, *.amemv.com, *.akamaized.net, *.appsflyer.com, *.tiktokv.com, *.muscdn.com, *.byteoversea.com, *.musical.ly, *.ibyteimg.com, *.app-measurement.com
