@@ -361,3 +361,6 @@ DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zillow.com
 DOMAIN-SUFFIX,zoho.com
+# Country
+DOMAIN-SUFFIX,cn
+GEOIP,CN
