@@ -1,3 +1,7 @@
 # Apple
 DOMAIN-SUFFIX,gdmf.apple.com
 DOMAIN-SUFFIX,mesu.apple.com
+# Mac
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,swdist.apple.com
+DOMAIN-SUFFIX,swscan.apple.com
