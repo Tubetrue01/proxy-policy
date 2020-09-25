@@ -1,5 +1,5 @@
-#!name=ads-terminator
-#!desc=remove the ads for you
+#!name=Ads-Terminator
+#!desc=用于移除开屏广告(相关 app 陆续增加)
 #!system=ios
 
 [Rule]
