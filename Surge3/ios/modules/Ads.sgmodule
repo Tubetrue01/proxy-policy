@@ -1,0 +1,7 @@
+#!name=ads-terminator
+#!desc=remove the ads for you
+[Rule]
+# Kugou
+URL-REGEX,ads.*.kugou.com,REJECT
+# Seeyouyima
+DOMAIN,ad.seeyouyima.com,REJECT
