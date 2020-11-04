@@ -1,0 +1,7 @@
+#!name=YouTubeMusic
+#!desc=YouTubeMusic 路由规则
+
+[Rule]
+# YouTubeMusic
+USER-AGENT,YouTubeMusic*,🎡 CN2-GIA
+USER-AGENT,*youtubemusic*,🎡 CN2-GIA
