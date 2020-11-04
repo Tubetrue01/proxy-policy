@@ -1,0 +1,7 @@
+#!name=Nexflix
+#!desc=Nexflix 路由规则
+
+[Rule]
+# Nexflix
+DOMAIN-SUFFIX,netflix.com,🎡 CN2-GIA
+DOMAIN-SUFFIX,nflxvideo.net,🎡 CN2-GIA
