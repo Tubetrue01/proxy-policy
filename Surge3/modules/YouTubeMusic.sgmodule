@@ -3,5 +3,5 @@
 
 [Rule]
 # YouTubeMusic
-USER-AGENT,YouTubeMusic*,🎡 CN2-GIA
-USER-AGENT,*youtubemusic*,🎡 CN2-GIA
+USER-AGENT,YouTubeMusic*,🍁 Shadowsocks
+USER-AGENT,*youtubemusic*,🍁 Shadowsocks
