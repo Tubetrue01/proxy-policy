@@ -3,4 +3,4 @@
 
 [Rule]
 # YouTubeMusic
-USER-AGENT,YouTubeMusic,🎡 CN2-GIA
+USER-AGENT,YouTubeMusic*,🎡 CN2-GIA
