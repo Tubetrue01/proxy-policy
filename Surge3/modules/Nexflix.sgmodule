@@ -3,5 +3,5 @@
 
 [Rule]
 # Nexflix
-DOMAIN-SUFFIX,netflix.com,🍁Shadowsocks
-DOMAIN-SUFFIX,nflxvideo.net,🍁Shadowsocks
+DOMAIN-SUFFIX,netflix.com,🍁 Shadowsocks
+DOMAIN-SUFFIX,nflxvideo.net,🍁 Shadowsocks
