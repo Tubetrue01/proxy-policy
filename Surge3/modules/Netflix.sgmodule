@@ -3,5 +3,5 @@
 
 [Rule]
 # Nexflix
-OMAIN-SUFFIX,netflix.com,🎡 CN2-GIA
+DOMAIN-SUFFIX,netflix.com,🎡 CN2-GIA
 DOMAIN-SUFFIX,nflxvideo.net,🎡 CN2-GIA
