@@ -1,0 +1,6 @@
+#!name=Forbid Apple OCSP Check
+#!desc=macOS checks the validity of the app's certificate frequently. This might leak your private information and slow down the app launching. But disabling it may reduce the security protection. Use at your own risk.
+#!system=mac
+
+[Rule]
+AND,((PROCESS-NAME,trustd),(DOMAIN,ocsp.apple.com)),REJECT-NO-DROP
