@@ -3,4 +3,4 @@
 #!system=mac
 
 [Rule]
-AND,((PROCESS-NAME,trustd),(DOMAIN,ocsp.apple.com)),REJECT-NO-DROP
+AND,((PROCESS-NAME,trustd),(DOMAIN,ocsp.apple.com)),REJECT-DROP
