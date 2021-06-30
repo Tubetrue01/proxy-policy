@@ -281,7 +281,6 @@ DOMAIN-SUFFIX,spotscenered.info
 DOMAIN-SUFFIX,spring.com
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,stackexchange.com
-DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,subscene.com
 # T
