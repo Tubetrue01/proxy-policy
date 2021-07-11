@@ -181,7 +181,7 @@ DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kissanime.to
 DOMAIN-SUFFIX,kompas.com
 DOMAIN-SUFFIX,kooora.com
-DOMAIN-SUFFIX，kugou.com
+DOMAIN-SUFFIX,kugou.com
 # L
 DOMAIN-SUFFIX,leagueoflegends.com
 DOMAIN-SUFFIX,leboncoin.fr
