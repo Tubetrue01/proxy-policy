@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,allegro.pl
 DOMAIN-SUFFIX,amazon.ca
 DOMAIN-SUFFIX,amazon.co.uk
-DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.de
 DOMAIN-SUFFIX,amazon.es
 DOMAIN-SUFFIX,amazon.fr
