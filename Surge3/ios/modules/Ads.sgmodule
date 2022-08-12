@@ -6,6 +6,7 @@
 # Kugou
 URL-REGEX,ads.*.kugou.com,REJECT
 URL-REGEX,acshow*.kugou.com,REJECT
-
+# 联掌门户
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
 # Seeyouyima
 DOMAIN,ad.seeyouyima.com,REJECT
