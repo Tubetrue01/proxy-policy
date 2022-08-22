@@ -141,7 +141,6 @@ DOMAIN-SUFFIX,hdfcbank.com
 DOMAIN-SUFFIX,hespress.com
 DOMAIN-SUFFIX,hola.com
 DOMAIN-SUFFIX,homedepot.com
-DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,hotstar.com
 DOMAIN-SUFFIX,hp.com
