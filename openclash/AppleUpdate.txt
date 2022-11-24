@@ -1,8 +1,0 @@
-payload:
-  # Apple
-  - '+.gdmf.apple.com'
-  - '+.mesu.apple.com'
-  # Mac
-  - '+.swcdn.apple.com'
-  - '+.swdist.apple.com'
-  - '+.swscan.apple.com'
