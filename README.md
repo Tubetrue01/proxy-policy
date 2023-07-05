@@ -1,2 +1,2 @@
 # SSEncrypt.module
-SSEncrypt.module for Surge that Copyright by Surge!
+SSEncrypt.module for Surge which Copyright owned!
