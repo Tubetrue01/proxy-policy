@@ -1,2 +1,4 @@
 # I
 DOMAIN-SUFFIX,ifixit.com
+DOMAIN-SUFFIX,github.com 
+DOMAIN-SUFFIX,raw.githubusercontent.com 
