@@ -1,4 +1,6 @@
+# G
+DOMAIN-SUFFIX,github.com 
 # I
 DOMAIN-SUFFIX,ifixit.com
-DOMAIN-SUFFIX,github.com 
+# R
 DOMAIN-SUFFIX,raw.githubusercontent.com 
