@@ -8,5 +8,18 @@ URL-REGEX,ads.*.kugou.com,REJECT
 URL-REGEX,acshow*.kugou.com,REJECT
 # 联掌门户
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT  
+DOMAIN-SUFFIX,bcebos.com,REJECT 
+DOMAIN,mon.zijieapi.com,REJECT 
+DOMAIN,mobads.baidu.com,REJECT 
+DOMAIN,mssdk.volces.com,REJECT 
+DOMAIN,s3plus.meituan.net,REJECT  
+DOMAIN,mobads-logs.baidu.com,REJECT 
+DOMAIN,mapi.dianping.com,REJECT 
+DOMAIN,ap.cpatrk.net,REJECT 
+DOMAIN,p26-be-pack-sign.pglstatp-toutiao.com,REJECT
+DOMAIN,sf3-fe-tos.pglstatp-toutiao.com,REJECT
+
 # Seeyouyima
 DOMAIN,ad.seeyouyima.com,REJECT
